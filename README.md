@@ -39,4 +39,5 @@ Run the project. If everything was setup correctly, you should be able to type i
 For convenience to anyone using VS Code, the build and debug steps have been added as custom tasks / launch config for VS Code.
 
 # License
-Licensed under the [MIT](/LICENSE) open source license.
+
+This project is licensed under the [GNU General Public License v3.0 or later](LICENSE) (`GPL-3.0-or-later`).
